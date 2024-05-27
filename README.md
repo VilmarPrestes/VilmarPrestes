@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vilmar+Prestes!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Brazil who speaks english too!</h3>
+<h3 align="center">A passionate software developer from Brazil who is also finishing my degree in Electrical Engineering!</h3>
 
 <br/>
 
