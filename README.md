@@ -10,7 +10,7 @@
   
 🔭 I’m currently working on my development as a dev in AI, Data Science and back-end areas  
 
-🌱 I’m currently learning Golang, soon will learn other languages like Groovy.   
+🌱 I’m currently learning GoLang and Groovy.   
 
 👯 Nowadays I’m working at Fitbak as a Back-end developer! 
 
