@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning GoLang and Groovy.   
 
-👯 Nowadays I’m working at Fitbak as a Back-end developer! 
+👯 Nowadays I’m working at Fitbank as a Back-end developer! 
 
 🤔 I’m always looking for any kind of help to learn something!   
 
