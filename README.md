@@ -10,15 +10,15 @@
   
 🔭 I’m currently working on my development as a dev in back-end, Data Science and AI areas  
 
-🌱 I’m currently learning GoLang and Groovy (Grails).   
-
 👯 Nowadays I’m working at Fitbank as a Back-end developer! 
+
+🌱 I’m currently learning GoLang and Groovy (Grails).  
 
 🤔 I’m always looking for any kind of help to learn something!   
 
 📫 How to reach me: prestesvilmar20@gmail.com  
 
-⚡ Fun fact: I love to gym. I'm a bodybuilder.  
+⚡ Fun fact: I love to gym. I'm a dev bodybuilder.  
 
 🌎 I’m Brazilian from Goiânia-GO, I speak portuguese, english and I’m learning spanish! 
 
