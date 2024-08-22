@@ -8,9 +8,9 @@
 
 <div align="center">
   
-🔭 I’m currently working on my development as a dev in AI, Data Science and back-end areas  
+🔭 I’m currently working on my development as a dev in back-end, Data Science and AI areas  
 
-🌱 I’m currently learning GoLang and Groovy.   
+🌱 I’m currently learning GoLang and Groovy (Grails).   
 
 👯 Nowadays I’m working at Fitbank as a Back-end developer! 
 
