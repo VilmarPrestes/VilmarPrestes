@@ -8,7 +8,7 @@
 
 <div align="center">
   
-🔭 I’m currently working on my development as a dev in back-end, Data Science and AI areas  
+🔭 I’m currently working on my development as a dev in Back-end and AI areas.
 
 👯 Nowadays I’m working at Fitbank as a Back-end developer! 
 
