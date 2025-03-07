@@ -10,15 +10,13 @@
   
 🔭 I’m currently working on my development as a dev in Back-end and AI areas.
 
-👯 Nowadays I’m working at Fitbank as a Back-end developer! 
+👯 Nowadays I’m working at Fitbank as a Software Engineer! 
 
-🌱 I’m currently learning GoLang and Groovy (Grails).  
+🌱 I’m currently learning Typescript and Angular.  
 
 🤔 I’m always looking for any kind of help to learn something!   
 
 📫 How to reach me: prestesvilmar20@gmail.com  
-
-⚡ Fun fact: I love to gym. I'm a dev bodybuilder.  
 
 🌎 I’m Brazilian from Goiânia-GO, I speak portuguese, english and I’m learning spanish! 
 
