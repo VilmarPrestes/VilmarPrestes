@@ -10,7 +10,7 @@
   
 🔭 I’m currently working on my development as a dev in Back-end and AI areas.
 
-👯 Nowadays I’m working at Siemens as a Power Systems Software Engineer! 
+👯 Nowadays I’m working at Siemens as Power Systems Software Engineer! 
 
 🌱 I’m currently learning Typescript and Angular.  
 
