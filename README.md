@@ -10,7 +10,7 @@
   
 🔭 I’m currently working on my development as a dev in Back-end and AI areas.
 
-👯 Nowadays I’m working at Fitbank as a Software Engineer! 
+👯 Nowadays I’m working at Siemens as a Power Systems Software Engineer! 
 
 🌱 I’m currently learning Typescript and Angular.  
 
@@ -39,8 +39,6 @@
   <img align="center" alt="Vilmar-Django" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
   <img align="center" alt="Vilmar-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Vilmar-Spring" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Vilmar-Groovy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/groovy/groovy-original.svg">
-  <img align="center" alt="Vilmar-Grails" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg">
   <img align="center" alt="Vilmar-Golang" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
   <img align="center" alt="Vilmar-Grcp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-original.svg">
   <img align="center" alt="Vilmar-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
